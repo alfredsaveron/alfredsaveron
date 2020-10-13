@@ -11,3 +11,5 @@
   |
   <a href="https://github.com/KaguwoNetwork" target="_blank">Kaguwo's Network</a>!
 </p>
+
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tag-epic&theme=dark)
