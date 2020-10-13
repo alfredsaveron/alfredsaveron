@@ -9,5 +9,5 @@
   |
   <a href="https://kaguwo.com/discord" target="_blank">Our Community</a>
   |
-  <a href="https://github.com/KaguwoNetwork" target="_blank">Kaguwo's Network</a>
+  <a href="https://github.com/KaguwoNetwork" target="_blank">Kaguwo's Network</a>!
 </p>
