@@ -14,3 +14,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredsaveron&theme=dark" width="150%" height="150px" alt="stats" />
 </p>
+
+<div class="card">
+              <img class="profile" src="https://res.cloudinary.com/dpj88/image/upload/v1598724126/logos/profilebest_wiop80.jpg" alt="">
+              <img class="github-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielphilipjohnson&layout=compact" alt="">
+            </div>
