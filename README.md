@@ -13,7 +13,5 @@
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredsaveron&theme=dark" width="150%" height="150px" alt="stats" />
-
-<img class="github-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredsaveron&layout=compact" alt="">
 </p>
 
