@@ -12,6 +12,6 @@
   <a href="https://github.com/KaguwoNetwork" target="_blank">Kaguwo's Network</a>!
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredsaveron&theme=dark" width="300%" height="250px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredsaveron&theme=dark" width="250%" height="250px" alt="stats" />
 </p>
 
