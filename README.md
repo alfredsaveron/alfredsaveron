@@ -1,13 +1,4 @@
 <p align="center">I am a Turkish student and do projects with HTML, CSS, JavaScript, PHP and Python. Turkish ( Izmir / Turkey ) Front-End and API Developer, mostly using these languages; JavaScript and Python. Ye, maybe cool. Moderator at <a href="https://github.com/KaguwoNetwork">KaguwoNetwork</a> | <a href="https://kaguwo.com">Switch Industries</a>.</p>
-
-### Projects
-|                    Project Name                                                    | Active |
-| ---------------------------------------------------------------------------------- | -------- |
-| **[Kaguwo's Pub](https://kaguwo.com/discord)**                                     |   True   |
-| **[Discord Extreme List](https://discordextremelist.xyz)**                         |   True   |
-| **[Up](https://alfreddo.ga)**                                                      |   False  |
-| **[Portfolio](https://alfreddo.ga)**                                               |   True   |
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfredsaveron&count_private=true&show_icons=true&theme=dark&hide_border=true" width="50%" height="150px" alt="stats" />
 </p>
