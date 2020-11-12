@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=alfredsaveron&style=flat-square&color=7289da" alt="stats"/>
-</p>
 <p align="center">I am a Turkish student and do projects with HTML, CSS, JavaScript, PHP and Python. Turkish ( Izmir / Turkey ) Front-End and API Developer, mostly using these languages; JavaScript and Python. Ye, maybe cool. Moderator at <a href="https://github.com/KaguwoNetwork">KaguwoNetwork</a> | <a href="https://kaguwo.com">Switch Industries</a>.</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfredsaveron&count_private=true&show_icons=true&theme=dark&hide_border=true" width="50%" height="150px" alt="stats" />
@@ -16,5 +13,8 @@
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredsaveron&theme=dark" width="150%" height="300px" alt="stats" />
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=alfredsaveron&style=flat-square&color=7289da" alt="stats"/>
 </p>
 
