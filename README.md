@@ -1,4 +1,4 @@
-##Hey, welcome back! 👋
+**Hey, welcome back!** 👋
 
 <p align="center">Hello, I'm Alf, I'm currently living in Izmir, Turkey and yes I'm Turkish Front-end Developer at Switch Inc. Community Coordinator - Manager at Kaguwo's Pub and GAPI. Senior Moderator at Switch Industries and Discord Extreme List. Turkish Translator at AdBlock, WordPress, GearBot, DEL and more.</a>.</p>
 <p align="center">
