@@ -1,4 +1,6 @@
-<p align="center">I am a Turkish student and do projects with HTML, CSS, JavaScript, PHP and Python. Turkish ( Izmir / Turkey ) Front-End and API Developer, mostly using these languages; JavaScript and Python. Ye, maybe cool. Moderator at <a href="https://github.com/KaguwoNetwork">KaguwoNetwork</a> | <a href="https://kaguwo.com">Switch Industries</a>.</p>
+##Hey, welcome back! 👋
+
+<p align="center">Hello, I'm Alf, I'm currently living in Izmir, Turkey and yes I'm Turkish Front-end Developer at Switch Inc. Community Coordinator - Manager at Kaguwo's Pub and GAPI. Senior Moderator at Switch Industries and Discord Extreme List. Turkish Translator at AdBlock, WordPress, GearBot, DEL and more.</a>.</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfredsaveron&count_private=true&show_icons=true&theme=dark&hide_border=true" width="50%" height="150px" alt="stats" />
 </p>
