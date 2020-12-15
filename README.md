@@ -4,7 +4,7 @@ I'm currently living in **Izmir, Turkey** and yes I'm Turkish Front-end Develope
 
 ## 🔧 Work
 
-I'm currently working at [Kaguwo's Network](https://github.com/KaguwoNetwork) and [Switch Industries](https://kaguwo.com)! What is this **Switch Industries**? It's a team working on Open Source projects, but cool hahayes! I'm still working on open source projects, if you have a project that interests you, it's great!
+I'm currently working at [Discord Extreme List](https://discordextremelist.xyz), [Kaguwo's Network](https://github.com/KaguwoNetwork) and [Switch Industries](https://kaguwo.com)! What is this **Switch Industries**? It's a team working on Open Source projects, but cool hahayes! I'm still working on open source projects, if you have a project that interests you, it's great!
 
 ## 🔭 About
 
