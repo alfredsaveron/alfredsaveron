@@ -1,6 +1,6 @@
 ### Hey welcome back, I'm Alf 👋
 
-I'm Alf, I'm currently living in Izmir, Turkey and yes I'm Turkish Front-end Developer at Switch Inc.
+I'm Alf, I'm currently living in Izmir, Turkey and yes I'm Turkish Front-end Developer at Switch Inc. And also [My Portfolio Website](https://alfreddo.ga)
 
 ## 🔧 Work
 
