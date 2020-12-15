@@ -12,4 +12,4 @@ Community Coordinator - Manager at [Kaguwo's Pub](https://kaguwo.com/discord) an
 
 ## 📫 Contact
 
-To contact with me quickly: [Twitter](https://twitter.com/alfredsaveron).
+To contact with me quickly, [Twitter](https://twitter.com/alfredsaveron).
