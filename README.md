@@ -8,7 +8,7 @@ I'm currently working at [Kaguwo's Network](https://github.com/KaguwoNetwork) an
 
 ## 🔭 About
 
-Community Coordinator - Manager at [Kaguwo's Pub](https://kaguwo.com/discord) and GAPI. Senior Moderator at Switch Industries and [Discord Extreme List](https://discordextremelist.xyz). Turkish Translator at AdBlock • [Node.js](https://nodejs.org/) • [GearBot](https://gearbot.rocks) • [Discord Extreme List](https://discordextremelist.xyz) • [React](https://facebook.github.io/react/) • [Rust Game](https://rust.facepunch.com/) and more. Mostly using these languages for my projects and more; JavaScript and Python.
+Community Coordinator - Manager at [Kaguwo's Pub](https://kaguwo.com/discord) and GAPI. Senior Moderator at Switch Industries and [Discord Extreme List](https://discordextremelist.xyz). Turkish Translator at [AdBlock](https://getadblock.com/) • [Node.js](https://nodejs.org/) • [GearBot](https://gearbot.rocks) • [Discord Extreme List](https://discordextremelist.xyz) • [React](https://facebook.github.io/react/) • [Rust Game](https://rust.facepunch.com/) and more. Mostly using these languages for my projects and more; JavaScript and Python.
 
 ## 📫 Contact
 
