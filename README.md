@@ -4,7 +4,7 @@ I'm Alf, I'm currently living in Izmir, Turkey and yes I'm Turkish Front-end Dev
 
 ## 🔧 Work
 
-I'm currently working at [Switch Industries](https://kaguwo.com)!
+I'm currently working at [Switch Industries](https://kaguwo.com)! What is this **Switch Industries**? It's a team working on Open Source projects, but cool hahayes!
 
 ## 🔭 More
 
