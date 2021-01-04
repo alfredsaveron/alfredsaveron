@@ -12,4 +12,4 @@ Community Coordinator - Manager at [Aestas Flores](https://kaguwo.com/discord) a
 
 ## 📫 Contact
 
-To contact with me quickly, [Twitter](https://twitter.com/alfredsaveron).
+To contact with me quickly, [Twitter](https://twitter.com/alfredsaveron)! :sunglasses:
