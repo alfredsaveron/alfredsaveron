@@ -1,4 +1,4 @@
-**Ey hello, Alf here! 👋** I'm currently living in **Izmir, Turkey** and yes I'm Turkish Front-end Developer at [Aestas Flores](https://aestasflores.me), Community Moderator • Helper at [Discord Extreme List](https://discordextremelist.xyz/) and also here's • [My Portfolio Website](https://alfreddo.ga)!
+**Ey hello, Alf here! 👋** I'm currently living in **Izmir, Turkey** and yes I'm Turkish Front-end (HTML,CSS,SCSS,Vue,JavaScript and Tailwind) Developer at [Aestas Flores](https://aestasflores.me), Community Moderator • Helper at [Discord Extreme List](https://discordextremelist.xyz/) and also here's • [My Portfolio Website](https://alfreddo.ga)!
 
 I'm still trying to learn Front-end. And yes; still trying to use the frameworks I've learned in my new projects, it's _really_ cool! 🚀
 
