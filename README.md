@@ -2,7 +2,7 @@
 
 I'm currently living in **Izmir, Turkey** and yes I'm Turkish Front-end Developer at [Aestas Flores](https://aestasflores.me), Community Moderator • Helper at [Discord Extreme List](https://discordextremelist.xyz/) and also here's • [My Portfolio Website](https://alfreddo.ga)! I'm still trying to learn Front-end. And yes; still trying to use the frameworks I've learned in my new projects, it's _really_ cool! 🚀
 
-<h1 align="center">About :conpass:</h1>
+<h1 align="center">About :compass:</h1>
 
 - I'm **currently** working at [Discord Extreme List](https://discordextremelist.xyz), [Aestas Flores](https://github.com/AestasFlores) and [Switch Industries](https://github.com/AestasFlores)! I recommend you to click on the links given to get information about these projects, I'm sure there will be a project / service that will interest you, so good luck.
 
