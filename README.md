@@ -1,6 +1,6 @@
 ### Hey, Alf here. 👋
 
-I'm currently living in **Izmir, Turkey** and yes I'm Turkish Front-end and Game Developer, Community Moderator and Helper; and also here's • [My website](https://alfs.ga)! I'm still trying to learn Front-end. And yes; still trying to use the frameworks I've learned in my new projects, it's _really_ cool! 🚀
+I'm currently living in **Izmir, Turkey** and yes I'm Turkish Front-end and Game Developer, Community Moderator and Helper; and also here's • [My website](https://alfs.ga)! I'm still trying to learn Front-end. And yes; still trying to use the frameworks I've learned in my new projects, it's _really (?)_ cool! 🚀
 
 - I'm **currently** working at [Discord Templates](https://temp.gg), [Discord Extreme List](https://discordextremelist.xyz)! I recommend you to click on the links given to get information about these projects, I'm sure there will be a project / service that will interest you, so good luck.
 
