@@ -12,9 +12,3 @@ As you can understand from the projects I have done 👨‍💻; I prefer to sha
 ## 🔧 Tools, IDEs & Softwares:
 
    [![Tools, IDEs and Softwares](https://skillicons.dev/icons?i=discord,cloudflare,vscode,stackoverflow,visualstudio,codepen)](https://skillicons.dev)
-
-## 🚀 Github Contribution Stats:
-
-<a href="https://github.com/alfredsaveron">
-<img src="https://github-readme-stats.vercel.app/api?username=alfredsaveron&bg_color=12171F&title_color=9FBCEB&text_color=FFFFFF&icon_color=9FBCEB&border_radius=6&show_icons=true&hide_border=true&hide=issues&hide_title=true&include_all_commits=true&count_private=true">
-</a> 
