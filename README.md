@@ -12,3 +12,7 @@ As you can understand from the projects I have done 👨‍💻; I prefer to sha
 ## 🔧 Tools, IDEs & Softwares:
 
    [![Tools, IDEs and Softwares](https://skillicons.dev/icons?i=discord,cloudflare,vscode,stackoverflow,visualstudio,codepen)](https://skillicons.dev)
+
+## 🌠 Discord
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/408005465423872001)](https://discord.com/users/408005465423872001)
