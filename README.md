@@ -7,7 +7,7 @@ As you can understand from the projects I have done 👨‍💻; I prefer to sha
 
 ## 🧬 Technologies:
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,py,nuxtjs,deno,electron)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,py,lua,deno,electron)](https://skillicons.dev)
 
 ## 🔧 Tools, IDEs & Softwares:
 
