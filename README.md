@@ -1,6 +1,4 @@
-<img align="centr" src="https://cdn.discordapp.com/attachments/745937151094423642/1039558726727778334/1667911855150.png">
-
-### Hey it's me, Alf! 👋
+## Hey it's me, Alf! 👋
 Just random student living in Izmir, Turkey and learning some cool Front-end codes.
 
 Currently living in Izmir, Turkey; I'm Turkish Front-end developer and I volunteer in many communities as a Community Moderator, Project Moderator, Helper and Translator. I'm **still** working at [Discord Templates](https://discordtemplates.com), [Discords.com](https://discords.com) and hype35 & vvg35 (currently private). I voluntarily translate some projects into Turkish, some projects where I'm Volunteer Translator and Community Helper: [Discord Extreme List](https://discordextremelist.xyz), [Rust (Video Game)](https://rust.facepunch.com/), [React](https://facebook.github.io/react/), [GearBot](https://gearbot.rocks/), [Node.js](https://nodejs.org/), [AdBlock](https://getadblock.com/) and more. Also I'm trying to learn *French* and *German*. I hope very soon I can speak these languages fluently.
