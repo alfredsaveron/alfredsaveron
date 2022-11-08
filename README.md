@@ -1,3 +1,5 @@
+<img align="centr" src="https://cdn.discordapp.com/attachments/745937151094423642/1039558726727778334/1667911855150.png">
+
 ### Hey it's me, Alf! 👋
 Just random student living in Izmir, Turkey and learning some cool Front-end codes.
 
