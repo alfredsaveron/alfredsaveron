@@ -9,7 +9,7 @@ As you can understand from the projects I have done 👨‍💻; I prefer to sha
 
 ## 🧬 Technologies:
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,lua,deno,rust)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,lua,ts,deno,rust)](https://skillicons.dev)
 
 ## 🔧 Tools, IDEs & Softwares:
 
