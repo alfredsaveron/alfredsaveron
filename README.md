@@ -10,8 +10,7 @@ As you can understand from the projects I have done 👨‍💻; I prefer to sha
 
 🌐 : [**alf.bio**](https://alf.bio) \
 🐦 : [**@alfredsaveron**](https://twitter.com/alfredsaveron) \
-📧 : [**@alfredsaveron**](https://discordapp.com/users/408005465423872001) \
-📸 : [**@alfredsaveron**](https://www.instagram.com/alfredsaveron) 
+📧 : [**@alfredsaveron**](https://discordapp.com/users/408005465423872001) 
 
 ## 🧬 Technologies:
 
