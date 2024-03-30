@@ -6,7 +6,11 @@
 
 <img align="right" src="https://lanyard-profile-readme.vercel.app/api/408005465423872001">
 
-As you can understand from the projects I have done 👨‍💻; I prefer to share my projects *open source* so anyone can search for bugs or add cool and improved code in my projects. The communities I have worked with are all* producing **open source** projects, and that's great! Also, if you want to contact me, *the fastest ways are* to reach me on Discord and Twitter: [@alfredsaveron](https://twitter.com/alfredsaveron) (Twitter)
+As you can understand from the projects I have done 👨‍💻; I prefer to share my projects *open source* so anyone can search for bugs or add cool and improved code in my projects.
+
+🌐 : [**alf.bio**](https://alf.bio) \
+🐦 : [**@alfredsaveron**](https://twitter.com/alfredsaveron) \
+📧 : [**@alfredsaveron**](https://discordapp.com/users/408005465423872001) 
 
 ## 🧬 Technologies:
 
