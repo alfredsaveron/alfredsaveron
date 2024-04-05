@@ -14,7 +14,7 @@ As you can understand from the projects I have done 👨‍💻; I prefer to sha
 
 ## 🧬 Technologies:
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,lua,ts,cs,py)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,lua,html,css,cs)](https://skillicons.dev)
 
 ## 🔧 Tools, IDEs & Softwares:
 
