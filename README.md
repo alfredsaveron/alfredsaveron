@@ -14,6 +14,8 @@ As you can understand from the projects I have done 👨‍💻; I prefer to sha
 
 [![Languages](https://skillicons.dev/icons?i=ts,js,py,lua,html,css,cs)](https://skillicons.dev)
 
+<img align="right" src="https://lanyard-profile-readme.vercel.app/api/408005465423872001?theme=dark&bg=21262d&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=Sleeping%20or%20something%20else...">
+
 ## 🔧 Tools, IDEs & Softwares:
 
    [![Tools, IDEs and Softwares](https://skillicons.dev/icons?i=discord,cloudflare,gcp,vscode,stackoverflow,visualstudio,codepen,gcp)](https://skillicons.dev)
