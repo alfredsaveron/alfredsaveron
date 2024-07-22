@@ -10,6 +10,7 @@ As you can understand from the projects I have done 👨‍💻; I prefer to sha
 
 🌐 : [**alf.bar**](https://alf.bar) \
 🐦 : [**@alfredsaveron**](https://twitter.com/alfredsaveron) \
+📧 : [**@alfredsaveron**](https://discordapp.com/users/408005465423872001) 
 
 ## 🧬 Technologies:
 
