@@ -19,4 +19,4 @@ As you can understand from the projects I have done 👨‍💻; I prefer to sha
 
 ## 🔧 Tools, IDEs & Softwares:
 
-[![Tools, IDEs and Softwares](https://skillicons.dev/icons?i=discord,cloudflare,gcp,vscode,stackoverflow,visualstudio,codepen,gcp)](https://skillicons.dev)
+[![Tools, IDEs and Softwares](https://skillicons.dev/icons?i=discord,cloudflare,gcp,vscode,stackoverflow,visualstudio,codepen)](https://skillicons.dev)
