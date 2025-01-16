@@ -1,4 +1,4 @@
-![Banner](https://github.com/alfredsaveron/alfredsaveron/blob/main/img/afbarletzte.png)
+![Banner](https://github.com/alfredsaveron/alfredsaveron/blob/main/img/alf-new-banner.png)
 
 > 20 years old Computer Engineering (CE) student interested in Internet culture, games, technologies and frontend development.
 
