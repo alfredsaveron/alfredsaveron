@@ -1,8 +1,8 @@
 ![Banner](https://github.com/alfredsaveron/alfredsaveron/blob/main/img/readme.png)
 
-> 20 years old Computer Engineering (CE) student from Vienna, Austria.
+> 21 years old Computer Engineering (CE) student from Vienna, Austria.
 
-**20-years-old student** who lives in Vienna, Austria; studying for a bachelor's degree in Computer Engineering (CE), interested in Internet culture, games, technologies, music and I work voluntarily or paid as a Community Moderator, Project Moderator, Helper, Translator, Maintainer, Event Manager in many communities. I'm **still** working at [Discord Templates](https://discords.com/templates), [Discords.com](https://discords.com), [Saveron LLC](https://github.com/SaveronLLC) and StabilGmbH (private deutsch project).
+**21-years-old student** who lives in Vienna, Austria; studying for a bachelor's degree in Computer Engineering (CE), interested in Internet culture, games, technologies, music and I work voluntarily or paid as a Community Moderator, Project Moderator, Helper, Translator, Maintainer, Event Manager in many communities. I'm **still** working at [Discord Templates](https://discords.com/templates), [Discords.com](https://discords.com), [Saveron LLC](https://github.com/SaveronLLC) and StabilGmbH (private deutsch project).
 
 <img align="right" src="https://lanyard-profile-readme.vercel.app/api/408005465423872001?theme=dark&bg=21262d&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=Sleeping%20or%20something%20else...">
 
