@@ -1,4 +1,4 @@
-![Banner](https://github.com/alfredsaveron/alfredsaveron/blob/main/img/alf-readme-image.png)
+<img src="https://github.com/alfredsaveron/alfredsaveron/blob/main/img/alf-readme-image.png" alt="readme-image" width="100"/>
 
 > 21 years old Computer Engineering (CE) student from Vienna, Austria.
 
