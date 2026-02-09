@@ -11,12 +11,3 @@ As you can understand from the projects I have done 👨‍💻; I prefer to sha
 🌐 : [**ege.rip**](https://ege.rip) \
 🐦 : [**@alfredsaveron**](https://twitter.com/alfredsaveron) \
 📧 : [**@alfredsaveron**](https://discordapp.com/users/408005465423872001) 
-
-## 🧬 Technologies: 
-
-[![Languages](https://skillicons.dev/icons?i=ts,js,py,lua,html,css,cs)](https://skillicons.dev)
-
-
-## 🔧 Tools, IDEs & Softwares:
-
-[![Tools, IDEs and Softwares](https://skillicons.dev/icons?i=discord,cloudflare,gcp,vscode,stackoverflow,visualstudio,codepen)](https://skillicons.dev)
