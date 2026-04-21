@@ -1,4 +1,4 @@
-<img src="/img/ege_bg.png" alt="readme-image" width="1000"/>
+
 
 > 21 years old Computer Engineering (CE) student from Vienna, Austria.
 
