@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Ege (a.k.a **alfredsaveron**), a 21 years old Computer Engineering student from localhost:3000
+I'm Ege (a.k.a alfredsaveron), an Istanbul-born, Austria-based 21-year-old Computer Engineering student from localhost:3000
 
 I write a lot of TypeScript, but I miss the good old HTML days
 
